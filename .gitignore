@@ -1,0 +1,11 @@
+node_modules
+.env
+
+/generated/prisma
+
+# AI agent skills (auto-generated, not project code)
+.agents/
+.claude/
+.windsurf/
+skills-lock.json
+.env
